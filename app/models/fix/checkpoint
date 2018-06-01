@@ -1,0 +1,2 @@
+model_checkpoint_path: "model183.ckpt"
+all_model_checkpoint_paths: "model183.ckpt"
